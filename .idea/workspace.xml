@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ec80dc3-2412-4f88-838f-b3bdb458a1e8" name="Changes" comment="primeiro commit">
-      <change afterPath="$PROJECT_DIR$/.idea/Exercicios_JavaBasico_LoianeGroner.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README().txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README().txt" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,11 +61,24 @@
       <option name="presentableId" value="Default" />
       <updated>1724457861788</updated>
       <workItem from="1724457867715" duration="306000" />
-      <workItem from="1724459162635" duration="162000" />
+      <workItem from="1724459162635" duration="247000" />
     </task>
+    <task id="LOCAL-00001" summary="primeiro commit">
+      <option name="closed" value="true" />
+      <created>1724459350797</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1724459350797</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="primeiro commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="primeiro commit" />
   </component>
 </project>
