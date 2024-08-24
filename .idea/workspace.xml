@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ec80dc3-2412-4f88-838f-b3bdb458a1e8" name="Changes" comment="primeiro commit" />
+    <list default="true" id="5ec80dc3-2412-4f88-838f-b3bdb458a1e8" name="Changes" comment="primeiro commit">
+      <change afterPath="$PROJECT_DIR$/.idea/Exercicios_JavaBasico_LoianeGroner.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README().txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,9 +14,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Arielton97"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Arielton97/exercicios-java-LoianeGroner.git",
+    "accountId": "fba3d5cd-d1b7-4416-a1d7-c43b89181b9f"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2l5702XN68YjHyp0hfo6oYyW7cR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -22,9 +38,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Documentos/eclipse/Java-and-Web-Developers/Exercicios",
+    "last_opened_file_path": "D:/Documentos/eclipse/Java-and-Web-Developers/Exercicios_JavaBasico_LoianeGroner",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -46,6 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1724457861788</updated>
       <workItem from="1724457867715" duration="306000" />
+      <workItem from="1724459162635" duration="162000" />
     </task>
     <servers />
   </component>
